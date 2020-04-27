@@ -1,0 +1,1 @@
+A basic node demo that uses node http module to create a server and demonstrates how to use EventEmitter class
